@@ -1,0 +1,11 @@
+{"version": "0.2.0",
+"configurations": [
+        {
+                "name": "sg_carpark_availability",
+                "request": "launch",
+                "type": "dart",
+                "args": [
+                        "--no-sound-null-safety"
+                    ]
+        }
+]}
